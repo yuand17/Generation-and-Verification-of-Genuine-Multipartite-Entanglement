@@ -30,4 +30,4 @@ The output files are stored in the fold `data` in the form of `.csv` with the na
 - [1] Correcting detection errors in quantum state engineering through data processing, Chao Shen and Lu-Ming Duan, New Journal of Physics 14,053053 (2012)
 
 <div id="refer-anchor-2"></div>
-- [2] Improved simulation of stabilizer circuits, Scott Aaronson and Daniel Gottesman, Phys. Rev. A 70, 052328
+- [2] Improved simulation of stabilizer circuits, Scott Aaronson and Daniel Gottesman, Phys. Rev. A70, 052328 (2004)
