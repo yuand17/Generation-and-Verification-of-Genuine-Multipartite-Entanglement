@@ -9,7 +9,7 @@ The source code consists of three Python scripts:
 
 `Clifford_circuit_operations.py` realizes all the operations of Clifford gates and measuerments on computational bases. The single- and two-qubit depolarization channels are also realized by probabilistic quantum trajectories. We mainly follow the details in [<sup>2</sup>](#refer-anchor-2)
 
-`Readout_error_correction_functions.py` are made up with sevearal functions which exactly or approximately correct the readout errors to accurately compute the entanglement witnesses, such as `Stab_prod_func`, `Stab_prod_exact_correct_func` and `Stab_prod_approx_correct_func`.
+`Readout_error_correction_functions.py` are made up with several functions which exactly or approximately correct the readout errors to accurately compute the entanglement witnesses, such as `Stab_prod_func`, `Stab_prod_exact_correct_func` and `Stab_prod_approx_correct_func`.
 
 `1D_cluster_state_stabilizer.py` is the main processing script, which controls the system size of entangled states, the number of running rounds and correction modes, etc. The whole program can be launched by the terminal command:
 
