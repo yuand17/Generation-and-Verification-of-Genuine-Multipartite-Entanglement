@@ -1,4 +1,4 @@
-# Generation-and-Verification-of-Genuine-Multipartite-Entanglement on a Superconducting Quantum Processor
+# Generation and Verification of Genuine Multipartite Entanglement on a Superconducting Quantum Processor
 
 This program numerically evaluates the predicted value of entanglement witnesses for the one-dimensional linear cluster state, with the method of random Clifford circuit simulations. The error correction method in [<sup>1</sup>](#refer-anchor-1) is adopted to mitigate the readout errors.
 
